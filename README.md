@@ -41,5 +41,5 @@ With its clean mobile-like interface, this project is perfect for beginners lear
 1. **Clone this repository**
    ```bash
 
-   git clone https://github.com/<your-username>/weather-app.git
+   [git clone https://github.com/Khushal404das/weather-app.git
    cd weather-app
